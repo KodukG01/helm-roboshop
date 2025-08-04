@@ -1,0 +1,4 @@
+StatefulSet:
+  imageURL: gautamjames/mongodb
+  imageVersion: v1
+  
